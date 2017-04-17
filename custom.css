@@ -40,6 +40,7 @@
     #title {
       font-size: 60px;
     }
+    
   }
   
   #contact3 {
@@ -57,3 +58,6 @@
     padding-top: 15px;
      padding-bottom: 15px;
   }
+  .carousel {
+      max-height:550px
+    }
