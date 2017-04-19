@@ -26,17 +26,26 @@ html,
     #title {
       font-size: 30px;
     }
+    #test3 {
+      margin-top: 600px;
+    }
   }
   
   @media(min-width:992px) {
     #title {
       font-size: 50px;
     }
+    #test3 {
+      margin-top:200px;
+    }
   }
   
   @media(min-width:1200px) {
     #title {
       font-size: 60px;
+    }
+     #test3 {
+      margin-top:300px;
     }
     
   }
