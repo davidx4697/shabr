@@ -43,9 +43,10 @@ html,
   
   #contact3 {
     text-align: center;
-    background-color: rgba(0, 200, 255, 1);
+    background-color: rgba(50, 50, 50, 1);
     padding-bottom: 10px;
     padding-top: 10px;
+    color: white;
   }
   
   #address {
@@ -70,19 +71,24 @@ html,
     background-color: rgba(0, 200, 255, 1);
     padding-bottom: 10px;
     padding-top: 10px;
+    color: white;
+    background-color: rgba(50, 50, 50, 1);
   }
   
   #home {
     text-align: center;
     padding-bottom: 10px;
     padding-top: 10px;
+    
+    
   }
   
   #info3 {
     text-align: center;
-    background-color: rgba(0, 200, 255, 1);
+    background-color: rgba(50, 50, 50, 1);
     padding-bottom: 10px;
     padding-top: 10px;
+    color: white;
   }
   
   #info {
@@ -93,27 +99,30 @@ html,
   
   #test3 {
     text-align: center;
-    background-color: rgba(0, 200, 255, 1);
+    background-color: rgba(50, 50, 50, 1);
     padding-bottom: 10px;
     padding-top: 10px;
+    color: white;
   }
   
   #test {
     text-align: center;
     padding-bottom: 10px;
     padding-top: 10px;
+    
   }
   
   #gallery3 {
     text-align: center;
-    background-color: rgba(0, 200, 255, 1);
+    background-color: rgba(50, 50, 50, 1);
     padding-top: 10px;
     padding-bottom: 10px;
+    color: white;
   }
   
   #gallery {
     padding-top: 10px;
     padding-bottom: 10px;
-  
+  background-color: rgba(50, 50, 50, 1);
 }
   
