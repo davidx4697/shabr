@@ -17,7 +17,6 @@
     text-align: center;
   }
   
-  
   @media(min-width:00px) {
     #title {
       font-size: 30px;
@@ -40,42 +39,60 @@
     #title {
       font-size: 60px;
     }
-    
   }
   
   #contact3 {
     text-align: center;
-    background-color:  rgba(0, 200, 255, 1);
+    background-color: rgba(0, 200, 255, 1);
     padding-bottom: 10px;
     padding-top: 10px;
   }
-#address {
-  text-align:center;
-}
+  
+  #address {
+    text-align: center;
+  }
+  
   #footer {
     background-color: rgba(0, 200, 255, 1);
     text-align: center;
     padding-top: 15px;
-     padding-bottom: 15px;
+    padding-bottom: 15px;
   }
+  
   .carousel {
-      max-height:550px
-    }
-     #home {
+    max-height: 550px
+  }
+  
+  #home3 {
     text-align: center;
-    background-color:  rgba(0, 200, 255, 1);
+    background-color: rgba(0, 200, 255, 1);
     padding-bottom: 10px;
     padding-top: 10px;
-     }
-      #info {
+  }
+  
+  #home3 {
     text-align: center;
-    background-color:  rgba(0, 200, 255, 1);
     padding-bottom: 10px;
     padding-top: 10px;
-     }
-      #test {
+  }
+  
+  #info3 {
     text-align: center;
-    background-color:  rgba(0, 200, 255, 1);
+    background-color: rgba(0, 200, 255, 1);
     padding-bottom: 10px;
     padding-top: 10px;
-     }
+  }
+  #info {
+    text-align: center;
+
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+  
+  #test3 {
+    text-align: center;
+    background-color: rgba(0, 200, 255, 1);
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+  
